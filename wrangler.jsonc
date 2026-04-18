@@ -1,8 +1,5 @@
 {
   "name": "yt-downloader-client",
   "pages_build_output_dir": "./dist",
-  "compatibility_date": "2025-01-01",
-  "assets": {
-    "not_found_handling": "single-page-application"
-  }
+  "compatibility_date": "2025-01-01"
 }
